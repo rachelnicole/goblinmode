@@ -1,0 +1,2 @@
+# goblinmode
+goblin mode central
